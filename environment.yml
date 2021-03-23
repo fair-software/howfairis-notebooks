@@ -1,0 +1,9 @@
+--- 
+channels: 
+  - conda-forge
+dependencies: 
+  - nb_conda
+  - pip
+  - pip:
+    - howfairis
+name: howfairis-notebooks
